@@ -1,3 +1,5 @@
+![favicon-32x32](https://user-images.githubusercontent.com/101904620/160257174-7bf4ebb3-fe56-43b0-9053-9e6d39e40aa4.png)
+![image-qr-code](https://user-images.githubusercontent.com/101904620/160257175-fef0692c-dc5f-46b1-bb21-e6966452d634.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Coding-Brunette/codin-brunette/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
